@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:quranappppppp/ui/home/quran_tab/chapter_details_screen.dart';
 
-class chapterTitleWidget extends StatelessWidget {
+class chapterTitleWidget extends StatelessWidget { 
   String chapterTitle;
   int index;
 
